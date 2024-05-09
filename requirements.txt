@@ -1,0 +1,18 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+colorama==0.4.6
+filelock==3.13.1
+fsspec==2024.2.0
+huggingface-hub==0.20.3
+idna==3.6
+numpy==1.26.4
+packaging==23.2
+PyYAML==6.0.1
+regex==2023.12.25
+requests==2.31.0
+safetensors==0.4.2
+tokenizers==0.15.2
+tqdm==4.66.2
+transformers @ git+https://github.com/huggingface/transformers@1a77f07f6556b1482bd5e5f8399aa528727d1b47
+typing_extensions==4.9.0
+urllib3==2.2.1
